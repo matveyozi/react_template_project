@@ -1,7 +1,7 @@
 export default function App() {
-
   return (
-    <div>React template project</div>
-  )
+    <div>
+      <h1>React template project</h1>
+    </div>
+  );
 }
-
